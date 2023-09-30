@@ -1,0 +1,11 @@
+/* Rohit Talwar 8924835 */
+body{
+    font: normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+    width : 100vw;
+    height: 100vh;
+    background-color: hsla(255, 66%, 82%, 0.5);
+}
+h2{
+    color: #f02;
+    font-size: 2.5em;
+}
